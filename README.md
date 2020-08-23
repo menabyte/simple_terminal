@@ -1,5 +1,4 @@
 # simple_terminal
-simple shell terminal written in C
 
 terminal program written in C by @menascii
    
